@@ -1,0 +1,7 @@
+{
+  "name": "AI Calling Agent",
+  "description": "An AI-powered voice assistant for websites that explains company services and captures lead information by sending conversation transcripts to a CRM.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
